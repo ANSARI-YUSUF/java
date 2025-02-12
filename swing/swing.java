@@ -7,7 +7,7 @@ import java.awt.*;
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
         g.setColor(Color.red);
-        g.drawString("hi datti i LOVE YOU", 50, 50);
+        g.drawString("hi i LOVE YOU", 50, 50);
         g.drawLine(200000000, 30, 20, 300);
         g.drawRect(700, 100, 30, 30);
         g.fillRect(1700, 100, 30, 30);
